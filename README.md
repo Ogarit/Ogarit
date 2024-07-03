@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Tiago Marques Lima</h1>
-<h3 align="center">Um desenvolvedor Python</h3>
+<h3 align="center">Um desenvolvedor Python, migrando para Ciência de Dados</h3>
 
 - 🌱 Atualmente estou aprendendo **Django, Rest Framework, NumPy, PyTorch, Pandas e Selenium**
 
