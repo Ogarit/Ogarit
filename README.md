@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou um(a) desenvolvedor python e analista de dados apaixonado(a) por dados. Atualmente, estou focado(a) em ciência de dados e machine learning. 
+Sou um desenvolvedor python e analista de dados apaixonado por dados. Atualmente, estou focado em ciência de dados e machine learning. 
 
 - 🌱 Estou aprendendo a trabalhar com machine learning.
 - 👯 Estou procurando colaborar em análises de dados e projetos de machine learning.
