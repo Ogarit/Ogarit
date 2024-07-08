@@ -1,18 +1,37 @@
-<h1 align="center">Olá 👋, eu sou Tiago Marques Lima</h1>
-<h3 align="center">Um desenvolvedor Python, migrando para Ciência de Dados</h3>
+# Olá, eu sou Tiago Marques Lima 👋
 
-- 🌱 Atualmente estou aprendendo **Django, Rest Framework, NumPy, PyTorch, Pandas e Selenium**
+## Sobre Mim
 
-- 📫 Como chegar até mim **tiagomarqueslima203@gmail.com**
+Sou um(a) desenvolvedor python e analista de dados apaixonado(a) por dados. Atualmente, estou focado(a) em ciência de dados e machine learning. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tiago-marques-lima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiago-marques-lima" height="30" width="40" /></a>
-</p>
+- 🌱 Estou aprendendo a trabalhar com machine learning.
+- 👯 Estou procurando colaborar em análises de dados e projetos de machine learning.
+- 📫 Como me encontrar:
+- Email: tiagomarqueslima203@gmail.com
+- Telefone: (38) 99872-6622
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## Conecte-se Comigo
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogarit&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="ogarit" /></p>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tiago-marques-lima/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:tiagomarqueslima203@gmail.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogarit&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en" alt="ogarit" /></p>
+## Tecnologias e Ferramentas
+
+[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
+[![PowerShell](https://skillicons.dev/icons?i=powershell)](https://learn.microsoft.com/en-us/powershell/)
+[![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://docs.anaconda.com)
+[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/docs.html)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://dev.mysql.com/doc/)
+[![Python](https://skillicons.dev/icons?i=py)](https://docs.python.org/3/)
+[![Scikit-Learn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org/stable/user_guide.html)
+[![Selenium](https://skillicons.dev/icons?i=selenium)](https://www.selenium.dev/documentation/)
+[![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/help/pycharm/getting-started.html)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/docs)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://learning.postman.com/docs/introduction/overview/)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://docs.kernel.org)
+[![Windows](https://skillicons.dev/icons?i=windows)](https://learn.microsoft.com/pt-br/windows/)
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Ogarit&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Ogarit&theme=radical)
