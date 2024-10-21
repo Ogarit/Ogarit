@@ -4,7 +4,7 @@
 
 Sou um desenvolvedor python e analista de dados apaixonado por dados e programação. Atualmente, estou focado em ciência de dados e machine learning. 
 
-- 🌱 Estou aprendendo a trabalhar com machine learning.
+- 🌱 Estou aprendendo a trabalhar com Mojo.
 - 👯 Estou procurando colaborar em análises de dados e projetos de machine learning.
 - 📫 Como me encontrar:
 - Email: tiagomarqueslima203@gmail.com
