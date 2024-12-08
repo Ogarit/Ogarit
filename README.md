@@ -1,19 +1,25 @@
-# Olá, eu sou Tiago Marques Lima 👋
+# 👋 Olá, eu sou Tiago Marques Lima  
 
-## Sobre Mim
+🎓 **Cientista de Dados em formação** com paixão por análise de dados, aprendizado de máquina e criação de soluções inteligentes.  
 
-Sou um desenvolvedor python e cientista de dados apaixonado por dados e programação. Atualmente, estou focado em ciência de dados e machine learning. 
+---
 
-- 🌱 Estou aprendendo a trabalhar com Mojo.
-- 👯 Estou procurando colaborar em análises de dados e projetos de machine learning.
-- 📫 Como me encontrar:
-- Email: tiagomarqueslima203@gmail.com
-- Telefone: (38) 99872-6622
+## 🛠️ **Sobre mim**  
+- 💻 Experiência com modelos de **clusterização de clientes** utilizando **Python**.  
+- 🚀 Explorando novas tecnologias como **Mojo** para melhorar habilidades em **Machine Learning** e **Redes Neurais**.  
+- 🎯 Objetivo: Criar modelos inteligentes que impactem positivamente a tomada de decisão.  
 
-## Conecte-se Comigo
+---
 
+## 📚 **Hobbies e Interesses**  
+- 🎮 Analiso variáveis de jogos para predizer cenários. 
+- 📖 Apaixonado por livros de ficção, animes e mangás. 
+- 🧮 Desafios matemáticos e cálculos mentais são uma diversão constante.
+
+---
+
+## 🌐 **Vamos nos conectar?**  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tiago-marques-lima/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:tiagomarqueslima203@gmail.com)
 
 ## Tecnologias e Ferramentas
 
@@ -30,8 +36,6 @@ Sou um desenvolvedor python e cientista de dados apaixonado por dados e programa
 [![Postman](https://skillicons.dev/icons?i=postman)](https://learning.postman.com/docs/introduction/overview/)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://docs.kernel.org)
 [![Windows](https://skillicons.dev/icons?i=windows)](https://learn.microsoft.com/pt-br/windows/)
-
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Ogarit&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Ogarit&theme=radical)
+<a href="https://docs.modular.com/mojo/manual/" target="_blank">
+  <img src="https://emojicdn.elk.sh/🔥?style=google" width="50" alt="Rocket Emoji">
+</a>
