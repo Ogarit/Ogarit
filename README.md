@@ -19,6 +19,7 @@
 
 ## 🌐 **Vamos nos conectar?**  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tiago-marques-lima/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](tiagomarqueslima203@gmail.com)
 
 ## Tecnologias e Ferramentas
 
