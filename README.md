@@ -6,8 +6,7 @@
 
 ## 🛠️ **Sobre mim**  
 - 💻 Experiência com modelos de **clusterização de clientes** utilizando **Python**.  
-- 🚀 Explorando novas tecnologias como **Mojo** para melhorar habilidades em **Machine Learning** e **Redes Neurais**.  
-- 🎯 Objetivo: Criar modelos inteligentes que impactem positivamente a tomada de decisão.  
+- 🚀 Explorando novas tecnologias como **Mojo** para melhorar habilidades em **Machine Learning** e **Redes Neurais**.
 
 ---
 
