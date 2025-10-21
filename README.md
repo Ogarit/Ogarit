@@ -15,12 +15,6 @@
 
 ---
 
-## 📂 **Projetos em Destaque**  
-🔹 [Análise RFM de Transações Comerciais](https://github.com/Ogarit/Analise_Exploratoria_RFM_Transacoes_Comerciais) – Segmentação de clientes com Python e RFM.  
-🔹 [Clusterização de E-Commerce](https://github.com/Ogarit/Clusteriza-o_e_Analise_de_Dados_de_um_E-Commerce) – K-Means, DBSCAN e métricas de avaliação de clusters.  
-
----
-
 ## 🎮 **Hobbies & Interesses**  
 🎯 **Análise de jogos** – Explorando dados para prever cenários e padrões.  
 📚 **Ficção & Cultura Geek** – Fã de mangás, animes e literatura fantástica.  
