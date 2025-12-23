@@ -1,54 +1,63 @@
-# 👋 Olá, eu sou **Tiago Marques Lima**  
+# 👋 Hi, I’m **Tiago Marques Lima**
 
-🎓 **Generalista de Dados End-to-End** em formação, apaixonado por **Matemática, Programação e Análise de Dados**.  
-💡 Transformo dados em **insights estratégicos** através de **Python, SQL, Power BI e Machine Learning**.  
-🚀 Atualmente explorando **Mojo** para otimizar **redes neurais** e aplicações de **computação de alto desempenho**.  
+📊 **Data Analyst** focused on **Business Insights, Automation and BI**
+🎓 Background in **Information Systems**
+💡 I transform data into **actionable insights** using **Python, SQL and Power BI**
 
----
+## 🚀 About Me
 
-## 🚀 **Sobre mim**  
-✔️ Experiência em **automação de processos** com Python, reduzindo em 50% o tempo de geração de relatórios.  
-✔️ Desenvolvimento de **dashboards interativos no Power BI** para monitoramento de indicadores educacionais.  
-✔️ Criação de modelos de **clusterização de clientes (K-Means, DBSCAN)** para segmentação em e-commerce.  
-✔️ Projetos de **predição de evasão escolar** e **API de chatbot** aplicando técnicas de Machine Learning e NLP.  
-✔️ Habilidade em **ETL, SQL, Pandas e NumPy** para manipulação de grandes volumes de dados.  
+* 📈 Experience in **data analysis and process automation**, reducing report generation time by **up to 50%** using Python
+* 📊 Development of **interactive Power BI dashboards** to monitor KPIs and support decision-making
+* 🧩 Strong background in **Exploratory Data Analysis (EDA)**, **data cleaning** and **data modeling**
+* 🧠 Applied experience with **customer segmentation (RFM analysis)** and **business-oriented analytics projects**
+* 🔄 Familiar with **ETL processes, SQL queries and data pipelines**
 
----
+> I enjoy working close to the business to turn raw data into insights that drive better decisions.
 
-## 🎮 **Hobbies & Interesses**  
-🎯 **Análise de jogos** – Explorando dados para prever cenários e padrões.  
-📚 **Ficção & Cultura Geek** – Fã de mangás, animes e literatura fantástica.  
-🧠 **Desafios matemáticos** – Resolver problemas lógicos e cálculos mentais como lazer.  
+## 📌 Featured Projects
 
----
+➡️ Check my main projects focused on **Sales, Marketing and Customer Analytics**
+📁 Repositories include:
 
-## 🌐 **Conecte-se comigo**  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tiago-marques-dados/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:tiagomarquesdados@gmail.com)  
+* Sales Transactions Analysis
+* Marketing ROI Analysis
+* Customer Segmentation (RFM)
 
----
+## 🛠️ Core Skills
 
-## 🛠️ **Tecnologias & Ferramentas**  
+### 🔹 Data Analysis & BI
 
-### 🔹 **Linguagens & Bancos de Dados**  
-[![Python](https://skillicons.dev/icons?i=py)](https://docs.python.org/3/)
-[![Mojo](https://go-skill-icons.vercel.app/api/icons?i=mojo)](https://docs.modular.com/mojo/manual)
-[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/docs.html)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://dev.mysql.com/doc/)  
+* Data Analysis & EDA
+* Business Insights & KPIs
+* Power BI & Dashboards
+* Data Visualization
 
-### 🔹 **Data Science & Machine Learning**  
-[![Scikit-Learn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org/stable/user_guide.html)
-[![Pandas](https://go-skill-icons.vercel.app/api/icons?i=pandas)](https://pandas.pydata.org/docs)
-[![Pandas](https://go-skill-icons.vercel.app/api/icons?i=numpy)](https://numpy.org/doc/stable)
-[![Power BI](https://go-skill-icons.vercel.app/api/icons?i=pbi)](https://learn.microsoft.com/pt-br/power-bi)
+### 🔹 Programming & Data
 
-### 🔹 **Automação & Desenvolvimento**  
-[![Selenium](https://skillicons.dev/icons?i=selenium)](https://www.selenium.dev/documentation/)
-[![Postman](https://skillicons.dev/icons?i=postman)](https://learning.postman.com/docs/introduction/overview/)
-[![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://docs.anaconda.com)  
+* Python (Pandas, NumPy)
+* SQL
+* Data Wrangling & Data Cleaning
+* Automation & Reporting
 
-### 🔹 **Ferramentas & SOs**  
-[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
-[![PowerShell](https://skillicons.dev/icons?i=powershell)](https://learn.microsoft.com/en-us/powershell/)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://docs.kernel.org)
-[![Windows](https://skillicons.dev/icons?i=windows)](https://learn.microsoft.com/pt-br/windows/)  
+### 🔹 Complementary
+
+* ETL & Data Pipelines
+* Applied Machine Learning (Regression, Clustering)
+* Web Scraping
+
+## 🌱 Currently Learning
+
+* Improving **advanced SQL and Power BI modeling**
+* Exploring **Machine Learning applications** for analytics use cases
+
+> ⚠️ Note: Advanced AI, Mojo and HPC are personal study topics and not my main professional focus.
+
+## 🎮 Interests
+
+* 🎯 Game data analysis and pattern exploration
+* 📚 Fiction, manga and geek culture
+* 🧠 Logical and mathematical challenges
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tiago-marques-dados/) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:tiagomarquesdados@gmail.com)
